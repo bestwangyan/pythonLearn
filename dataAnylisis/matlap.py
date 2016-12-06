@@ -4,12 +4,6 @@
 # purpose:
 # Author:Wang Yan
 # CreationDate:20160909
-#! /usr/bin/python
-# coding=utf-8
-# FileName: *.py
-# purpose:
-# Author:Wang Yan
-# CreationDate:20160909
 #a股的可以用 TuShare
 from matplotlib.finance import _quotes_historical_yahoo
 from matplotlib import pyplot as plt
