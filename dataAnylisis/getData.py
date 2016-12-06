@@ -75,3 +75,4 @@ print(quoteDf2["month"].value_counts())
 #print(quoteDf2.groupby("month").mean().close)  #mean sum max min
 g=quoteDf2.groupby("month")
 print(g.volume.sum())
+print(status)
